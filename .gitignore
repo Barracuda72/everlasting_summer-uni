@@ -1,0 +1,13 @@
+tmp/*
+**.jpg
+**.png
+**.mp3
+**.ogg
+**.rpyc
+**.rpyb
+**.ogv
+**.ttf
+**.TTF
+.android.json
+project.json
+*.txt
